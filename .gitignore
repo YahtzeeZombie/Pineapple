@@ -26,3 +26,5 @@ Sentinel of the Orchard/ProjectSettings/
 
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
+*.dwlt
+Sentinel of the Orchard/Library/shadercompiler-32bit-1.log
